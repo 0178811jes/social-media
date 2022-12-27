@@ -59,6 +59,98 @@ const Sidebar = () => {
                         <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
                         <span className="sidebarFriendName">Jhon Doe</span>
                     </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assets/img1.jpg" alt="" />
+                        <span className="sidebarFriendName">Jhon Doe</span>
+                    </li>
                 </ul>
             </div>
         </div>
