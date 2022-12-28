@@ -2,10 +2,11 @@ import './App.css';
 
 
 import Home from './pages/Home/Home';
+import Profile from './pages/Home/Profile/Profile';
 
 
 function App() {
-  return <Home></Home>
+  return <Profile></Profile>
   
   
 }
