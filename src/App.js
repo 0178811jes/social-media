@@ -1,14 +1,23 @@
+
+import { RouterProvider } from 'react-router-dom';
 import './App.css';
+import { router } from './Router/Routes/Routes';
 
 
-import Home from './pages/Home/Home';
-import Profile from './pages/Home/Profile/Profile';
+
+
 
 
 function App() {
-  return <Profile></Profile>
   
-  
+
+  return (
+    <div>
+      <RouterProvider router={router}></RouterProvider>
+    </div>
+  );
+
+
 }
 
 export default App;

@@ -1,10 +1,10 @@
-export const Users = [
-    {
+export const Users=[
+    {   
         id:1,
         profilePicture:"assets/img1.jpg",
         username:"Salma Shikdar"
     },
-    {
+    {   
         id:2,
         profilePicture:"assets/img2.jfif",
         username:"Momin Shikdar"
@@ -14,38 +14,38 @@ export const Users = [
         profilePicture:"assets/img3.jpg",
         username:"Saleha Banu"
     },
-    {
+    {   
         id:4,
         profilePicture:"assets/img4.webp",
         username:"Sakhins banu"
     },
-    {
+    {   
         id:5,
         profilePicture:"assets/img5.png",
         username:"Shakil Shikdar"
     },
-    {
+    {   
         id:6,
         profilePicture:"assets/img6.jfif",
         username:"Jomuna Mokul"
     },
-    {
-        id:7,
+    {   
+        id:10,
         profilePicture:"assets/img7.jfif",
         username:"Samir Khan"
     },
     {
-        id:8,
+        id:7,
         profilePicture:"assets/img8.jpeg",
         username:"Salma Shikha"
     },
     {
-        id:9,
+        id:8,
         profilePicture:"assets/img9.jfif",
         username:"Tokir ahmed"
     },
     {
-        id:10,
+        id:9,
         profilePicture:"assets/img10.webp",
         username:"Solomun Jobber"
     }
@@ -53,9 +53,9 @@ export const Users = [
 
 
 
-export const Posts =[
+export const Posts=[
     {
-        id: 1,
+        id:1,
         userId:1,
         like:9,
         comment:32,
@@ -64,7 +64,7 @@ export const Posts =[
         desc:"love for all, Hearted for none"
     },
     {
-        id: 2,
+        id:2,
         userId:2,
         like:15,
         comment:32,
@@ -73,7 +73,7 @@ export const Posts =[
         desc:"love for all, Hearted for none"
     },
     {
-        id: 3,
+        id:3,
         userId:3,
         like:9,
         comment:32,
@@ -91,7 +91,7 @@ export const Posts =[
         desc:"love for all, Hearted for none"
     },
     {
-        id: 5,
+        id:5,
         userId:5,
         like:9,
         comment:32,
@@ -100,7 +100,7 @@ export const Posts =[
         desc:"love for all, Hearted for none"
     },
     {
-        id: 6,
+        id:6,
         userId:6,
         like:9,
         comment:32,
@@ -109,7 +109,7 @@ export const Posts =[
         desc:"love for all, Hearted for none"
     },
     {
-        id: 7,
+        id:7,
         userId:7,
         like:9,
         comment:32,
@@ -118,7 +118,7 @@ export const Posts =[
         desc:"love for all, Hearted for none"
     },
     {
-        id: 8,
+        id:8,
         userId:8,
         like:9,
         comment:32,
@@ -127,7 +127,7 @@ export const Posts =[
         desc:"love for all, Hearted for none"
     },
     {
-        id: 9,
+        id:9,
         userId:9,
         like:9,
         comment:32,
@@ -136,7 +136,7 @@ export const Posts =[
         desc:"love for all, Hearted for none"
     },
     {
-        id: 10,
+        id:10,
         userId:10,
         like:9,
         comment:32,

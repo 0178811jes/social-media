@@ -83,7 +83,7 @@ const Rightbar = ({profile}) => {
         <div className='rightbar'>
             <div className="rightbarWrapper">
                 
-                <ProfileRightbar></ProfileRightbar>
+                {profile ? <ProfileRightbar></ProfileRightbar> : <HomeRightbar></HomeRightbar>}
             </div>
         </div>
     );

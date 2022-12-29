@@ -4,6 +4,7 @@ import Share from '../Share/Share';
 import "./Feed.css";
 import {Posts} from "../../FackData";
 
+
 const Feed = () => {
     return (
         <div className="feed">
